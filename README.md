@@ -8,7 +8,7 @@ Computer Information System major with a minor in Cybersecurity.
 
 <img src="download.jpg">
 
-
+<h1>Info About Me</h1>
 I am currently a senior at the University of North Alabama with many different coding abilities.
 
 * 🌍  I'm based in Florence, AL
