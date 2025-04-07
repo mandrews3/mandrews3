@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Information System major with a minor in Cybersecurity.
 ----------------------------------------------------------------
 
-<img src="GettyImages-621924830-scaled.jpg">
+<img src="download.jpg">
 
 
 I am currently a senior at the University of North Alabama with many different coding abilities.
