@@ -10,14 +10,14 @@ Computer Information System major with a minor in Cybersecurity.
 
 <h1>Info About Me</h1>
 I am currently a senior at the University of North Alabama with many different coding abilities.
-
-* 🌍  I'm based in Florence, AL
-* ✉️  You can contact me at [mandrews3@una.edu](mailto:mandrews3@una.edu)
-* 🚀  I'm currently working on [Web Dev Easy.](http://https://github.com/VicLove25/dev-easy)
-* 🧠  I'm learning Web development skills.
-* 🤝  I'm open to collaborating on anything.
-* ⚡  I really enjoy making money!
-
+<ol>
+<li>* 🌍  I'm based in Florence, AL</li>
+<li>* ✉️  You can contact me at [mandrews3@una.edu](mailto:mandrews3@una.edu)</li>
+<li>* 🚀  I'm currently working on [Web Dev Easy.](http://https://github.com/VicLove25/dev-easy)</li>
+<li>* 🧠  I'm learning Web development skills.</li>
+<li>* 🤝  I'm open to collaborating on anything.</li>
+<li>* ⚡  I really enjoy making money! </li>
+</ol>
 <a href="https://www.github.com/mandrews3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mandrews3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -42,3 +42,5 @@ src="https://img.shields.io/github/followers/mandrews3?logo=github&style=for-the
 <a href="http://www.github.com/mandrews3"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mandrews3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/mandrews3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandrews3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<summary> This is a perview of my github profile, with all information retaining to me</summary>
