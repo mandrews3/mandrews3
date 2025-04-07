@@ -18,6 +18,7 @@ I am currently a senior at the University of North Alabama with many different c
 <li>🤝  I'm open to collaborating on anything.</li>
 <li>⚡  I really enjoy making money! </li>
 </ol>
+<p>Quote: “Practice makes perfect.” – Vince Lombardi</p>
 <a href="https://www.github.com/mandrews3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mandrews3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
