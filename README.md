@@ -1,4 +1,4 @@
-<header>Author & Attribution</header>
+<header><Strong>:-) Author & Attribution (-:</Strong></header>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mattew Landon Andrews
 =============================================================================================================================================
@@ -8,15 +8,15 @@ Computer Information System major with a minor in Cybersecurity.
 
 <img src="download.jpg">
 
-<h1>Info About Me</h1>
+<h1><Strong>Info About Me</Strong></h1>
 I am currently a senior at the University of North Alabama with many different coding abilities.
 <ol>
-<li>* 🌍  I'm based in Florence, AL</li>
-<li>* ✉️  You can contact me at [mandrews3@una.edu](mailto:mandrews3@una.edu)</li>
-<li>* 🚀  I'm currently working on [Web Dev Easy.](http://https://github.com/VicLove25/dev-easy)</li>
-<li>* 🧠  I'm learning Web development skills.</li>
-<li>* 🤝  I'm open to collaborating on anything.</li>
-<li>* ⚡  I really enjoy making money! </li>
+<li>🌍  I'm based in Florence, AL</li>
+<li>✉️  You can contact me at [mandrews3@una.edu](mailto:mandrews3@una.edu)</li>
+<li>🚀  I'm currently working on [Web Dev Easy.](http://https://github.com/VicLove25/dev-easy)</li>
+<li>🧠  I'm learning Web development skills.</li>
+<li>🤝  I'm open to collaborating on anything.</li>
+<li>⚡  I really enjoy making money! </li>
 </ol>
 <a href="https://www.github.com/mandrews3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mandrews3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
